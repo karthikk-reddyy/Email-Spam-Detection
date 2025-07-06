@@ -1,4 +1,6 @@
 📧 Email Spam Detection
+
+
 This project is a Streamlit web app that detects whether a given email/message is Spam or Not Spam. It uses a Naive Bayes classifier trained on a dataset of email messages.
 
 🔧 Features
